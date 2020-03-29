@@ -4,7 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * @author dylan
+ * @author zq
  */
 @SpringBootApplication
 //强制使用cglib代理
